@@ -5,5 +5,5 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="USB_GUI.MainWindow"
         Title="USB_GUI">
-    Welcome to Avalonia!
+    THIS IS A TEST!!
 </Window>
